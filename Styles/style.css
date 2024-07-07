@@ -270,5 +270,103 @@ header{
 
 /* join now section ended */
 
+/* best offer section started */
+
+.best-offer-container{
+
+    width: 1320px;
+    height: 463px;
+    margin-top: 120px;
+    margin: 0 auto;
+    display: flex;
+
+}
+
+.left-content{
+
+    width: 33.333%;
+    height: 463px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+
+}
+
+.center-content{
+
+    width: 33.333%;
+    height: 463px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.right-content{
+
+    width: 33.333%;
+    height: 463px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+
+}
+
+.left-content h4{
+
+    margin-bottom: 16px;
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+
+}
+
+.left-content h1{
+
+    margin-bottom: 22px;
+    color: rgb(7, 2, 17);
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+
+}
+
+.left-content p{
+
+    color: rgba(7, 2, 17, 0.6);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+
+}
+
+.right-content h1{
+    
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+    margin-bottom: 16px;
+
+}
+
+.right-content p{
+
+    color: rgba(7, 2, 17, 0.6);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    margin-bottom: 43px;
+
+}
+
+/* best offer section ended */
+
+
+
+
 
 
