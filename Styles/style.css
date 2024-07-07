@@ -365,6 +365,57 @@ header{
 
 /* best offer section ended */
 
+/* holiday sale section started */
+
+.holiday-sale-container{
+
+    width: 1068px;
+    height: 260px;
+    margin: 0 auto;
+    margin-top: 120px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.holiday-sale-container h4{
+
+    color: rgb(7, 2, 17);
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 16px;
+
+}
+
+.holiday-sale-container h1{
+
+    color: rgb(7, 2, 17);
+    font-family: Merriweather;
+    font-size: 72px;
+    font-weight: 900;
+    margin-bottom: 28px;
+
+}
+
+.holiday-sale-container span{
+
+    color: rgb(255, 0, 0);
+
+}
+
+.holiday-sale-container p{
+
+    color: rgba(7, 2, 17, 0.6);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 64px;
+
+}
+
 
 
 
