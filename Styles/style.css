@@ -13,7 +13,7 @@ body{
 
 }
 
-/* banner section started */
+/* banner section styles started */
 
 header{
     margin-top: 50px;
@@ -63,9 +63,9 @@ header{
 
 }
 
-/* banner section ended*/
+/* banner section styles ended*/
 
-/* 65% section started*/
+/* 65% section styles started*/
 
 .second-section-container{
 
@@ -128,9 +128,9 @@ header{
 
 }
 
-/* 65% section ended*/
+/* 65% section styles ended*/
 
-/* midnight section start */
+/* midnight section styles start */
 
 .midnight-party-container{
 
@@ -210,7 +210,7 @@ header{
 
 /* midnight section ended */
 
-/* join now section started */
+/* join now section styles started */
 
 .join-now-container{
 
@@ -264,9 +264,9 @@ header{
 
 }
 
-/* join now section ended */
+/* join now section styles ended */
 
-/* best offer section started */
+/* best offer section styles started */
 
 .best-offer-container{
 
@@ -362,9 +362,9 @@ header{
 }
 
 
-/* best offer section ended */
+/* best offer section styles ended */
 
-/* holiday sale section started */
+/* holiday sale section styles started */
 
 .holiday-sale-container{
 
@@ -438,7 +438,71 @@ header{
 
 }
 
-/* holiday sale section ended  */
+/* holiday sale section styles ended  */
+
+/* portfolio section styles started */
+
+.portfolio-container{
+
+    width: 1320px;
+    height: 1163px;
+    margin: 0 auto;
+}
+
+.portfolio-container h4{
+
+    margin-bottom: 16px;
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+
+}
+
+.portfolio-container h1{
+
+    margin-bottom: 22px;
+    color: rgb(7, 2, 17);
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+
+}
+
+.portfolio-container p{
+
+    color: rgba(7, 2, 17, 0.6);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+
+}
+
+.portfolio-itemes-one{
+
+    display: flex;
+    justify-content: space-between;
+    margin-top: 48px;
+    
+}
+
+.portfolio-items-two{
+
+    display: flex;
+    justify-content: space-between;
+    margin-top: 24px;
+}
+  
+.items{
+
+    width: 424px;
+    height: 450px;
+
+}
+
+/* portfolio section styles ended */
+
+ 
 
 
 
