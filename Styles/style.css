@@ -447,6 +447,7 @@ header{
     width: 1320px;
     height: 1163px;
     margin: 0 auto;
+    margin-bottom: 120px;
 }
 
 .portfolio-container h4{
@@ -501,6 +502,105 @@ header{
 }
 
 /* portfolio section styles ended */
+
+/* newsletter section styles started */
+
+.newsletter-container{
+
+    width: 1320px;
+    height: 616px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: rgba(255, 0, 0, 0.05);
+    border-radius: 16px;
+
+}
+
+.newsletter-content{
+
+    width: 896px;
+    height: 336px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    
+}
+
+.newsletter-content img{
+
+    width: 150px;
+    height: 150px;
+    margin-bottom: 40px;
+}
+
+.newsletter-content h1{
+
+    color: rgb(7, 2, 17);
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    text-align: center;
+    margin-bottom: 22px;
+
+}
+
+.newsletter-content p{
+
+    color: rgba(7, 2, 17, 0.6);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center;
+
+}
+
+.newslatter-button{
+
+    width: 648px;
+    height: 72px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+    padding: 10px;
+    border-radius: 50px;
+    margin-top: 48px;
+
+}
+
+.newslatter-button input{
+
+    color: rgba(7, 2, 17, 0.3);
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    padding: 15px 10px;
+    border: none;
+    outline: none;
+    
+}
+
+.newslatter-button button{
+
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 600;
+    width: 210px;
+    height: 72px;
+    border-radius: 0px 50px 50px 0px;
+    background: rgb(255, 0, 0);
+    border: none;
+    cursor: pointer;
+    margin-left: 141px;
+}
+
+/* newsletter section styles ended */
 
  
 
